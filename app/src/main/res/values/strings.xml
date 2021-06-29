@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Editor</string>
+    <string name="click_to_pick_a_image">Click to Pick a Image</string>
+</resources>
